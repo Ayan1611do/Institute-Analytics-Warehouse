@@ -1,0 +1,14 @@
+Backend Layer
+
+This project focuses on data warehousing and analytics.
+
+No separate backend application was required.
+
+Data processing is handled using Python ETL scripts.
+
+Scripts Used:
+- generate_data.py
+- generate_remaining_data.py
+- create_database.py
+- load_data.py
+- analytics_queries.py

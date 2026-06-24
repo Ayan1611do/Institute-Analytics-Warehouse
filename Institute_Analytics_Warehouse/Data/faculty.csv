@@ -1,0 +1,51 @@
+faculty_id,faculty_name,department_id,designation
+1,Aaron Beard,5,Associate Professor
+2,Corey Cook,5,Associate Professor
+3,Thomas Harrington,2,Professor
+4,Cheryl Cline,1,Assistant Professor
+5,Wesley Rose,1,Assistant Professor
+6,Robert Perez,3,Associate Professor
+7,Mark Fields,1,Associate Professor
+8,Jose Heath,1,Assistant Professor
+9,Xavier Jones,1,Assistant Professor
+10,Gwendolyn Brady,1,Professor
+11,Mary Charles,2,Professor
+12,George Cervantes,5,Professor
+13,Robert Collins,5,Associate Professor
+14,Stephanie Haney,5,Assistant Professor
+15,Cynthia Davis,5,Professor
+16,Tonya Brown,4,Professor
+17,Christy Craig,5,Associate Professor
+18,Diane Murray,3,Professor
+19,Matthew Weaver,4,Professor
+20,Alexis Taylor,1,Professor
+21,Amy Owens,2,Associate Professor
+22,Jane Hall,1,Professor
+23,Timothy Mitchell,3,Professor
+24,Michael Hughes,4,Associate Professor
+25,Richard Mejia,1,Professor
+26,Jean Davis,1,Associate Professor
+27,Jason Smith,2,Associate Professor
+28,Shelby Wood,4,Assistant Professor
+29,Patricia Reynolds,5,Professor
+30,Samuel Holloway,3,Assistant Professor
+31,Lauren Nielsen,4,Assistant Professor
+32,Andrew Haynes,5,Associate Professor
+33,Samantha Rodriguez,1,Assistant Professor
+34,Kristen Hunter,5,Professor
+35,Tracy Duarte,2,Associate Professor
+36,Ryan Nguyen,1,Assistant Professor
+37,James Myers,2,Assistant Professor
+38,Stephanie Walker,2,Assistant Professor
+39,Kevin Bernard,2,Associate Professor
+40,Jeremy Carr,1,Assistant Professor
+41,Joyce Gonzales,5,Assistant Professor
+42,Kimberly Lane,4,Professor
+43,Stacey Ruiz,3,Professor
+44,Matthew Sheppard,3,Professor
+45,Robert Clark,4,Assistant Professor
+46,Christopher White,2,Professor
+47,Jason Charles,5,Associate Professor
+48,Taylor Garner,1,Assistant Professor
+49,David Myers,1,Associate Professor
+50,Sheryl Massey,5,Professor

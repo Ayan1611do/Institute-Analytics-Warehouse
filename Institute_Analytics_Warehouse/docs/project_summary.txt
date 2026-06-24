@@ -1,0 +1,30 @@
+Institute Analytics Data Warehouse
+
+Technology Stack:
+- Python
+- SQLite
+- Power BI
+
+Records:
+- Students: 500
+- Departments: 5
+- Admissions: 500
+- Attendance: 500
+- Exam Results: 500
+- Placements: 300
+- Faculty: 50
+
+Analytics:
+- 8 SQL Queries
+- Power BI Dashboard
+- KPI Cards
+- Placement Analytics
+- Department Analytics
+- Attendance Analytics
+
+Documentation:
+- README.md
+- NIRF/NAAC Mapping
+
+Prepared By:
+Ayan Khan
